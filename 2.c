@@ -14,9 +14,9 @@ int main()
     printf("Choose a number (1,2,3 or 4):");
     scanf("%d",&choice);
 
-    switch (choice)
-    {
-        case 1:
+    // switch (choice)
+    // {
+    //     case 1:
         
-    }
+    // }
 }
