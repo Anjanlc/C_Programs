@@ -1,11 +1,12 @@
 /* # 24
- Write a program in C to simulate a dynamic array.
+
+Write a program  in C to simulate a dynamic array.
 
  A dynamic array is an array data structure where the size of the array gets expanded and shrinked automatically as elements are inserted or removed.
  As you keep on inserting the elements, the array gets bigger. In the other hand, if you keep on removing the elements, the array start getting smaller 
  automatically.
 
- Your program should contain the definitions for the following functions:
+ Your program should contain the definitions for the following Functions:
 
  1. init(): This function initializes the dynamic array for the first time, by creating an array of some initial size n, and polpulating it.
  2. insert(int index, int element): this function inserts the elementat the specified index of the dynamic array.
