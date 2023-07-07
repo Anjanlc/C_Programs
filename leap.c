@@ -9,7 +9,7 @@
 
     //int a=3,b=2;
     //a+=b;
-    //printf("a=%d",a);
+    //printf("a=%d",a); 
     //return 0;
 //
 #include<stdio.h>
