@@ -1,4 +1,4 @@
-// sample program to find the minimum of four numbers.
+// Sample program to find the minimum of four numbers.
 
 #include<stdio.h>
 
