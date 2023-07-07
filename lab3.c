@@ -1,5 +1,5 @@
 /*.Write a program in C that takes two numbers from user as input and then displays the maximum among the 
-two numbers.*/
+two numbers*/
 
 #include<stdio.h>
 int main()
