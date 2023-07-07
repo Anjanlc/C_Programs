@@ -10,6 +10,7 @@ int main()
         printf("It is  divisible by 7\n");
 
     }
+    
     else 
     {
         printf("It is not divisible by 7\n");
