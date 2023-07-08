@@ -1,4 +1,4 @@
-// TIME AND 
+// TIME AND DATE
 #include<stdio.h>
 
 int main()
