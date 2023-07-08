@@ -1,4 +1,4 @@
-// TIME 
+// TIME AND 
 #include<stdio.h>
 
 int main()
