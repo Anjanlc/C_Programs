@@ -16,7 +16,7 @@
 // #include<stdio.h>
 // #define MAX(a,b) (a>b? a:b)
 // int main()
-//{
+//{ 
 //    int MAX, a,b;
 //    printf("Enter first number");
 //    scanf("%d",&a);
