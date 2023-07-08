@@ -26,7 +26,7 @@
 //
 //    printf("%d is the maximum among two number\n",MAX(a,b));
 //    
-//    
+//   
 //    return 0;
 //
 //} 
